@@ -1,0 +1,97 @@
+.fbindex{
+    background-color: #e7e9f4;
+}
+.image{
+  margin-left: 7%;
+  height: 250px;
+  width: 340px;
+}
+.position{
+   font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+   font-size: 28px;
+   /* padding-left: 10%; */
+   position: absolute;
+   top: 40%;
+   left: 9.5%;
+}
+.login{
+   height: 340px;
+   width: 350px;
+   border-radius: 20px;
+   background-color: white;
+   top: 13%;
+   right: 6%;
+   position: absolute;
+   box-shadow:0 0 10px black;
+   padding: 20px;
+   text-align: center;
+}
+.info{
+   left: 20px;
+   width: 100%;
+   display: inline-block;
+   padding: 15px;
+   margin: 10px 0;
+   font-size: 16px;
+   border-radius: 13px;
+   border: 1px solid #dddfe2;
+   box-sizing: border-box;
+}
+.buttn{
+   cursor: pointer;
+   background-color: #1877f2;
+   color: white;
+   width: 100%;
+   border: none;
+   border-radius: 8px;
+   padding: 12px;
+   font-size: 16px;
+}
+.buttn:hover{
+   background-color: #009dff;
+   color: black;
+}
+.forgotten{
+   text-decoration: none;
+   color: #1877f2;
+   margin-top: 10px;
+   font-size: 15;
+   display: inline-block;
+   font-family: sans-serif;
+}
+.hr{
+   border: none;
+   margin-top: 15px;
+   border-top: 1px solid rgb(131, 131, 131);
+}
+.bttn2{
+   cursor: pointer;
+   background-color: #42b72a;
+   border-radius: 8px;
+   padding: 13px;
+   font-size: 15px;
+   font-family: sans-serif;
+   width: 250px;
+   border:  transparent;
+   margin-top: 10px;
+   color: white;
+}
+.bttn2:hover{
+   background-color: #30851f;
+}
+.page{
+   color: black;
+   margin-top: 70%;
+   margin-right: 30%;
+}
+.image1{
+  height: 250px;
+  width: 340px;
+  margin-left: 30%;
+  margin-top: 50px;
+}
+.footer{
+   margin-top: 100px;
+   text-align: right;
+   font-weight: bold;
+}
